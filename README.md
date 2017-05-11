@@ -77,9 +77,9 @@ Comme vous l'aurez compris, les possibilités sont infinies.
 ### Down:
   Même comportement que up mais inversé.
 ### Recherche:
-  La recherche se lance en tapant un caractère. Une loupe devrait apparaître en bas de la fenêtre avec votre recherche.
+  La recherche se lance en tapant un caractère. Une loupe apparaît en bas de la fenêtre avec votre recherche.
   Il suffit d'appuyer sur entrer pour aller à la première occurrence. Rappuyer sur entrer aura pour effet d'aller à la prochaine
-  occurrence et ainsi de suite. Si vous vous trouvez sur la dernière occurrence, vous serezs ramené à la première.
+  occurrence et ainsi de suite. Si vous vous trouvez sur la dernière occurrence, vous serez ramené à la première.
   Pour sortir de la recherche, il vous suffit de taper sur la touche supprimer, ce qui aura pour effet de supprimer la dernière lettre
   de la recherche. Quand plus aucune lettre n'est dans la recherche vous repassez en mode normal.
 ### Del:
